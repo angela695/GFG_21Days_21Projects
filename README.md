@@ -5,3 +5,6 @@ dataset used : https://github.com/HarshvardhanSingh-13/Datasets
 
 Project 1 :
 EDA of the Titanic Dataset
+
+Datathon Competition : 
+We were given 2 days worth of tume to work on the OLA Rides Dataset . I did the analysis while ,my other two teammates made the presentations .
