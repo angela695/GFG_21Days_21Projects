@@ -5,12 +5,15 @@ dataset used : https://github.com/HarshvardhanSingh-13/Datasets
 
 Project 1 :
 EDA of the Titanic Dataset .
+
 Colab Link : https://colab.research.google.com/drive/1QxHMrnDCJ4PlOduBe6mgAPgsrqGNMOEA?usp=sharing
 
 Datathon Competition : 
 We were given 2 days worth of time to work on the OLA Rides Dataset . I did the analysis while ,my other two teammates made the presentations including the insights drawn from the analysis .
+
 Colab Link : https://colab.research.google.com/drive/1gWi7R4rBS7-62CXTcscfqTirX9ydZ_9W?usp=sharing
 
 Project 2 : 
 EDA of the Netflix Dataset .
+
 Colab link : https://colab.research.google.com/drive/1tPhLdqTK3rOUXQjGYuAvII0DnCw61CxM?usp=sharing
