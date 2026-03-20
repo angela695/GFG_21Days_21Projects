@@ -11,3 +11,4 @@ We were given 2 days worth of time to work on the OLA Rides Dataset . I did the 
 
 Project 2 : 
 EDA of the Netflix Dataset .
+Colab link : https://colab.research.google.com/drive/1tPhLdqTK3rOUXQjGYuAvII0DnCw61CxM?usp=sharing
